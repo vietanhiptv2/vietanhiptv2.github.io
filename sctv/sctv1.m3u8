@@ -1,0 +1,4 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:BANDWIDTH=1655782,RESOLUTION=1280x720
+https://e1.endpoint.cdn.sctvonline.vn/hls/sctv1/sd2/index.m3u8
